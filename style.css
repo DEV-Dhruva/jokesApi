@@ -40,13 +40,13 @@ h3{
     font-weight: bold;
     background-color: rgb(43, 190, 196);
     border-radius: 3px;
-    border: 0px ;
+    border: 1px solid rgb(7, 44, 250) ;
     text-align: center;
     padding: 4px;
     margin-left: 35%;
     margin-bottom: 13px;
     cursor: pointer;
-    box-shadow: 0 0 3px rgba(7, 8, 10, 0.6);
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.7);
 }
 
 .btn:hover{
